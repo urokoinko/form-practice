@@ -1,5 +1,6 @@
 <template>
-    <div class="container">
+    <h1>test</h1>
+    <!-- <div class="container">
       <form
         class="contact_form"
         name="form-practice"
@@ -28,7 +29,7 @@
           <button type="submit">送信</button>
         </div>
       </form>
-    </div>
+    </div> -->
   </template>
 
 <style scoped>
