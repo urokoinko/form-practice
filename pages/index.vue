@@ -1,6 +1,6 @@
 <template>
     <!-- <NuxtLink :to="{ name: 'contact' }">contact</NuxtLink> -->
-    <div class="container">
+    <!-- <div class="container">
       <form
         class="contact_form"
         name="form-practice"
@@ -29,7 +29,18 @@
           <button type="submit">送信</button>
         </div>
       </form>
-    </div>
+    </div> -->
+    <form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
   </template>
 
 <style scoped>
