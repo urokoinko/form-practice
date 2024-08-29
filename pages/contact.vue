@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <form
+    <!-- <form
       class="contact_form"
       name="contact"
       method="POST"
@@ -27,7 +27,7 @@
       <div class="contact_submit">
         <button type="submit">送信</button>
       </div>
-    </form>
+    </form> -->
   </div>
 </template>
 <style scoped>
