@@ -1,5 +1,16 @@
 <template>
     <h1>test</h1>
+    <form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
     <!-- <div class="container">
       <form
         class="contact_form"
