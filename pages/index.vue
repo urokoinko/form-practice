@@ -13,7 +13,7 @@
         <input type="text" id="name" name="name" autocomplete="name" />
       </div>
       <div class="contact_item">
-        <label for="email">メールアドレス</label>
+        <label for="email">メールアドレス!</label>
         <input
           type="email"
           id="email"
