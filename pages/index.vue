@@ -1,5 +1,6 @@
 <template>
     <NuxtLink :to="{ name: 'contact' }">contact</NuxtLink>
+    
     <!-- <div class="container">
       <form
         class="contact_form"
