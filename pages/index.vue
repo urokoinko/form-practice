@@ -5,7 +5,7 @@
         class="contact_form"
         name="form-practice"
         method="POST"
-        data-netlify="true" 
+        netlify 
       >
         <input type="hidden" name="form-name" value="form-practice" /> 
         <div class="contact_item">
